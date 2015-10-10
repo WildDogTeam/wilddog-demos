@@ -4,9 +4,7 @@ Wilddog SDK Demos　分类汇总
 
 像著名的 [android-open-project](https://github.com/Trinea/android-open-project) ，这里分类汇总了 WildDog平台上的示例程序和开源应用。
 
-欢迎大家推荐使用了 WildDog做小应用，欢迎Fork、提交issue、反馈bug :)
-
-参与[讨论](https://talks.z.wilddog.com) 
+欢迎大家推荐使用了 WildDog做小应用，欢迎Fork、提交issue、反馈bug :),参与[讨论](https://talks.z.wilddog.com) 
 
 对于 Android 项目，大多数都是 Android Studio 所用的 Gradle 项目结构，导入 Eclipse 的话可能缺少某些类，请到 [SDK 下载页](https://www.wilddog.com/download/)下载 SDK 手动添加依赖。
 
