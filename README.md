@@ -4,14 +4,10 @@ Wilddog SDK Demos　分类汇总
 
 像著名的 [android-open-project](https://github.com/Trinea/android-open-project) ，这里分类汇总了 WildDog平台上的示例程序和开源应用。
 
-欢迎大家推荐使用了 WildDog 的开源项目，也欢迎大家开源用 WildDog做的小应用、练手的应用，欢迎Fork、提交PR :)
+欢迎大家推荐使用了 WildDog做小应用，欢迎Fork、提交issue、反馈bug :)
 
-对于下面的项目，若想下载到本地，请直接点击 Github 上的`Download Zip`，如图所示，这样只下载最新版本。如果是 `git clone`，则可能非常慢，因为含杂很大的提交历史。某次测试两者是 1.5M:40M。
-![qq20150618-2 2x](https://cloud.githubusercontent.com/assets/5022872/8223520/4c25415a-15ab-11e5-912d-b5dab916ce86.png)
+参与[讨论](https://talks.z.wilddog.com) 
 
-或者指定 depth 参数来快速克隆到本地： `git clone https://github.com/WildDogTeam/Wilddog-demos.git --depth=1` 。
-
-对于 iOS 上的 CocoaPods 项目，请尽量试用 `pod install --no-repo-update --verbose` ，这样会大大加快 `pod install` 的速度。
 对于 Android 项目，大多数都是 Android Studio 所用的 Gradle 项目结构，导入 Eclipse 的话可能缺少某些类，请到 [SDK 下载页](https://www.wilddog.com/download/)下载 SDK 手动添加依赖。
 
 Demo 分类：[iOS](https://github.com/WildDogTeam/Wilddog-demos#ios)、[Android](https://github.com/WildDogTeam/Wilddog-demos#android)、[JavaScript](https://github.com/WildDogTeam/Wilddog-demos#javascript)
