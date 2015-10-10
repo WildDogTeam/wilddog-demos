@@ -94,11 +94,15 @@ demo-android-login 是一个基于 Wilddog Android SDK 开发登录 demo，其�
 
 demo-android-drawing是一个基于 Wilddog Android SDK 开发的实时画图 demo，可多终端登录来一起画画，同步显示图画效果。
 
+项目地址：https://github.com/WildDogTeam/demo-android-drawing
+
 ### demo-android-chat
 
 ![](https://img.shields.io/github/stars/WildDogTeam/demo-android-chat.svg?style=social)
 
 demo-android-wildchat 是一个基于 Wilddog Android SDK 实现的简单聊天通讯类 APP。
+
+项目地址：https://github.com/WildDogTeam/demo-android-chat
 
 ## javascript
 
