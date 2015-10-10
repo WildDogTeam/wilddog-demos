@@ -10,94 +10,6 @@ Wilddog SDK Demos　分类汇总
 
 Demo 分类：[iOS](https://github.com/WildDogTeam/Wilddog-demos#ios)、[Android](https://github.com/WildDogTeam/Wilddog-demos#android)、[JavaScript](https://github.com/WildDogTeam/Wilddog-demos#javascript)
 
-## ios
-
-### demo-ios-wildchat
-
-![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-wildchat.svg?style=social)
-
-demo-ios-wildchat 是一个基于 Wilddog iOS SDK 实现的简单聊天通讯类 APP。
-
-项目地址：https://github.com/WildDogTeam/demo-ios-wildchat
-
-
-### demo-ios-wildfeed
-
-![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-wildfeed.svg?style=social)
-
-demo-ios-wildfeed 是一个基于 Wilddog iOS SDK 开发的类似微博的社交应用。
-
-项目地址：https://github.com/WildDogTeam/demo-ios-wildfeed
-
-![image](https://raw.githubusercontent.com/WildDogTeam/demo-ios-wildfeed/master/screenShot.png)
-
-### demo-ios-danmu
-
-![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-danmu.svg?style=social)
-
-demo-ios-danmu 是一个基于 Wilddog iOS SDK 实现的弹幕。
-
-项目地址：https://github.com/WildDogTeam/demo-ios-danmu
-
-### demo-ios-weather
-
-![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-weather.svg?style=social)
-
-demo-ios-weather 是一个基于 Wilddog iOS SDK 开发的修改天气状态 demo，主要实现 Wilddog 数据多设备同步修改和加载。
-
-项目地址：https://github.com/WildDogTeam/demo-ios-weather
-
-### demo-ios-drawing
-
-![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-drawing.svg?style=social)
-
-demo-ios-drawing是一个基于 Wilddog iOS SDK 开发的实时画图 demo，可多终端登录来一起画画，同步显示图画效果。
-
-项目地址：https://github.com/WildDogTeam/demo-ios-drawing
-
-### demo-ios-login
-
-![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-login.svg?style=social)
-
-demo-ios-login 是一个基于 Wilddog iOS SDK 开发登录 demo，其中实现的功能实例有QQ登录、微信登录、微博登录、匿名登录。
-
-项目地址：https://github.com/WildDogTeam/demo-ios-login
-
-
-### demo-ios-objects
-
-![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-objects.svg?style=social)
-
-WilddogObjects是一个回调，用几个类配合wilddog实现一个同步的NSDictionary
-
-项目地址：https://github.com/WildDogTeam/demo-ios-objects
-
-## Android 
-
-### demo-android-login 
-
-![](https://img.shields.io/github/stars/WildDogTeam/demo-android-login.svg?style=social)
-
-demo-android-login 是一个基于 Wilddog Android SDK 开发登录 demo，其中实现的功能实例有QQ登录、微信登录、微博登录、匿名登录。
-
-项目地址：https://github.com/WildDogTeam/demo-android-login
-
-### demo-android-drawing
-
-![](https://img.shields.io/github/stars/WildDogTeam/demo-android-drawing.svg?style=social)
-
-demo-android-drawing是一个基于 Wilddog Android SDK 开发的实时画图 demo，可多终端登录来一起画画，同步显示图画效果。
-
-项目地址：https://github.com/WildDogTeam/demo-android-drawing
-
-### demo-android-chat
-
-![](https://img.shields.io/github/stars/WildDogTeam/demo-android-chat.svg?style=social)
-
-demo-android-wildchat 是一个基于 Wilddog Android SDK 实现的简单聊天通讯类 APP。
-
-项目地址：https://github.com/WildDogTeam/demo-android-chat
-
 ## javascript
 
 ### demo-js-geomap 
@@ -206,6 +118,96 @@ demo-js-starwars 是一个基于wilddog JavaScript SDK实现的弹幕。
 项目地址：https://github.com/WilddogTeam/demo-js-wildqiniu
 
 ![image](https://raw.githubusercontent.com/WildDogTeam/demo-js-wildqiniu/master/screenshot.png)
+
+## ios
+
+### demo-ios-wildchat
+
+![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-wildchat.svg?style=social)
+
+demo-ios-wildchat 是一个基于 Wilddog iOS SDK 实现的简单聊天通讯类 APP。
+
+项目地址：https://github.com/WildDogTeam/demo-ios-wildchat
+
+
+### demo-ios-wildfeed
+
+![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-wildfeed.svg?style=social)
+
+demo-ios-wildfeed 是一个基于 Wilddog iOS SDK 开发的类似微博的社交应用。
+
+项目地址：https://github.com/WildDogTeam/demo-ios-wildfeed
+
+![image](https://raw.githubusercontent.com/WildDogTeam/demo-ios-wildfeed/master/screenShot.png)
+
+### demo-ios-danmu
+
+![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-danmu.svg?style=social)
+
+demo-ios-danmu 是一个基于 Wilddog iOS SDK 实现的弹幕。
+
+项目地址：https://github.com/WildDogTeam/demo-ios-danmu
+
+### demo-ios-weather
+
+![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-weather.svg?style=social)
+
+demo-ios-weather 是一个基于 Wilddog iOS SDK 开发的修改天气状态 demo，主要实现 Wilddog 数据多设备同步修改和加载。
+
+项目地址：https://github.com/WildDogTeam/demo-ios-weather
+
+### demo-ios-drawing
+
+![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-drawing.svg?style=social)
+
+demo-ios-drawing是一个基于 Wilddog iOS SDK 开发的实时画图 demo，可多终端登录来一起画画，同步显示图画效果。
+
+项目地址：https://github.com/WildDogTeam/demo-ios-drawing
+
+### demo-ios-login
+
+![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-login.svg?style=social)
+
+demo-ios-login 是一个基于 Wilddog iOS SDK 开发登录 demo，其中实现的功能实例有QQ登录、微信登录、微博登录、匿名登录。
+
+项目地址：https://github.com/WildDogTeam/demo-ios-login
+
+
+### demo-ios-objects
+
+![](https://img.shields.io/github/stars/WildDogTeam/demo-ios-objects.svg?style=social)
+
+WilddogObjects是一个回调，用几个类配合wilddog实现一个同步的NSDictionary
+
+项目地址：https://github.com/WildDogTeam/demo-ios-objects
+
+## Android 
+
+### demo-android-login 
+
+![](https://img.shields.io/github/stars/WildDogTeam/demo-android-login.svg?style=social)
+
+demo-android-login 是一个基于 Wilddog Android SDK 开发登录 demo，其中实现的功能实例有QQ登录、微信登录、微博登录、匿名登录。
+
+项目地址：https://github.com/WildDogTeam/demo-android-login
+
+### demo-android-drawing
+
+![](https://img.shields.io/github/stars/WildDogTeam/demo-android-drawing.svg?style=social)
+
+demo-android-drawing是一个基于 Wilddog Android SDK 开发的实时画图 demo，可多终端登录来一起画画，同步显示图画效果。
+
+项目地址：https://github.com/WildDogTeam/demo-android-drawing
+
+### demo-android-chat
+
+![](https://img.shields.io/github/stars/WildDogTeam/demo-android-chat.svg?style=social)
+
+demo-android-wildchat 是一个基于 Wilddog Android SDK 实现的简单聊天通讯类 APP。
+
+项目地址：https://github.com/WildDogTeam/demo-android-chat
+
+
 
 
 
