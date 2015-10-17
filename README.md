@@ -93,8 +93,6 @@ demo-js-danmu 是一个基于wilddog JavaScript SDK实现的弹幕。
 
 项目地址：https://github.com/WilddogTeam/demo-js-danmu
 
-在线地址：http://danmu.wilddogapp.com/
-
 ![image](https://raw.githubusercontent.com/WildDogTeam/demo-js-danmu/master/danmu.png)
 
 ### demo-js-starwars 
